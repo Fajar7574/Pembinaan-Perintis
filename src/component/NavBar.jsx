@@ -11,7 +11,7 @@ return (
           
         <Container class="mx-auto">
           <Navbar.Brand className="brand-text font-weight-light">
-            <img src={Logo} className="brand-image img-circle elevation-3" style={{marginTop: -7,marginLeft:30,marginRight:30}} width="90"/>
+            <img src={Logo} className="brand-image img-circle elevation-3" style={{marginTop: -7,marginLeft:30,marginRight:30}} width="200"/>
             <span>   </span>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
